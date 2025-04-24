@@ -16,7 +16,7 @@ const app = express();
 app.use(cors({
   origin: [
     "http://localhost:5173",
-    "https://cripto-assignment-front.onrender.com",
+    "https://cripto-assignment-f.onrender.com",
   ],
   credentials: true,
 }));
